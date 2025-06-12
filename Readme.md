@@ -21,7 +21,3 @@ This repository serves as a collection of solutions to various programming probl
 -   [Contact](#contact)
 
 ---
-
-## Project Structure
-
-The project is organized with individual TypeScript files, each corresponding to a specific problem solution.
