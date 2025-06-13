@@ -1,6 +1,6 @@
 # Problem Solving with TypeScript
 
-This repository serves as a collection of solutions to various programming problems, implemented using TypeScript. Each file represents a distinct problem, showcasing different algorithms, data structures, and problem-solving techniques.
+This repository serves as a collection of solutions to various programming problems, implemented using TypeScript. Each file represents a distinct problem, showcasing different algorithms, data structures, and problem-solving techniques
 
 ---
 
